@@ -1,0 +1,6 @@
+---
+owner-repo: appleboy/CodeGPT
+desc:   A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
+---
+
+# CodeGPT
