@@ -7,13 +7,13 @@ about:
   head: 37d737a
   archived: false
   latestVersion: v1.7.2
-  collectedAt: 2026-09-04T19:22:36Z
+  collectedAt: 2026-09-04T21:13:39Z
 timeline:
   created: 2023-03-04
   lastCommit: 2026-08-29
   lastRelease: 2026-06-28
 popularity:
-  star: 1503
+  star: 1504
   watcher: 18
   fork: 134
   release: 72
@@ -86,5 +86,58 @@ total:
   openIssue: 9
   commit: 541
 ---
+path: /home/runner/.x-repo/github.com/appleboy/CodeGPT
+collectedAt: 2026-09-04T21:13:40Z
+loc:
+  Go:
+    code: 4862
+    comments: 693
+    blanks: 779
+    files: 57
+  Svg:
+    code: 886
+    comments: 0
+    blanks: 7
+    files: 1
+  Sh:
+    code: 166
+    comments: 12
+    blanks: 31
+    files: 1
+  Makefile:
+    code: 50
+    comments: 12
+    blanks: 17
+    files: 1
+  Dockerfile:
+    code: 16
+    comments: 0
+    blanks: 7
+    files: 1
+  JavaScript:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 1
+  Bash:
+    code: 3
+    comments: 1
+    blanks: 1
+    files: 1
+  Pan:
+    code: 3
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1633
+    blanks: 670
+    files: 4
+total:
+  code: 6036
+  comments: 2367
+  blanks: 1519
+  files: 68
 ---
 
