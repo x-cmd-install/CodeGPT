@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 21316704,
       "digest": "sha256:e7a0743bf7c790a247109bf0917693724c4f85aec4eef0db191f5deab78615ad",
-      "download_count": 53,
+      "download_count": 54,
       "created_at": "2026-06-28T04:18:49Z",
       "updated_at": "2026-06-28T04:18:50Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.7.2/CodeGPT-1.7.2-darwin-amd64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21139640,
       "digest": "sha256:8ff6cbb6343e4422e7daa961602b951548426f45888882dbcc55c652987e00a6",
-      "download_count": 70,
+      "download_count": 72,
       "created_at": "2026-06-28T04:18:49Z",
       "updated_at": "2026-06-28T04:18:50Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.7.2/CodeGPT-1.7.2-linux-amd64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 4955272,
       "digest": "sha256:9c615a3bf980dc5fe24b135696b1becb517556209379ccea188d3c1787cab725",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-06-28T04:18:52Z",
       "updated_at": "2026-06-28T04:18:52Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.7.2/CodeGPT-1.7.2-linux-arm-7.xz"
