@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 20120610,
       "digest": "sha256:266fa0b77b294de537862311ade0b95a117297bf3f9d0a634d7a4a9d7fba0a67",
-      "download_count": 62,
+      "download_count": 63,
       "created_at": "2026-06-28T04:18:47Z",
       "updated_at": "2026-06-28T04:18:49Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.7.2/CodeGPT-1.7.2-darwin-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21139640,
       "digest": "sha256:8ff6cbb6343e4422e7daa961602b951548426f45888882dbcc55c652987e00a6",
-      "download_count": 84,
+      "download_count": 85,
       "created_at": "2026-06-28T04:18:49Z",
       "updated_at": "2026-06-28T04:18:50Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.7.2/CodeGPT-1.7.2-linux-amd64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 4963596,
       "digest": "sha256:e95ee3d702fb1b4cb764ce819ef83c30cace8a413672c3b623416820a55d678a",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-06-28T04:18:53Z",
       "updated_at": "2026-06-28T04:18:53Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.7.2/CodeGPT-1.7.2-linux-arm-6.xz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 19857592,
       "digest": "sha256:10abde4219c808682518320e6eec8cfb425f8c696dbd8503330b41146d808d4a",
-      "download_count": 51,
+      "download_count": 52,
       "created_at": "2026-06-28T04:18:49Z",
       "updated_at": "2026-06-28T04:18:50Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.7.2/CodeGPT-1.7.2-linux-arm64"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5784132,
       "digest": "sha256:d8c97029a98e98ede20eb64fc782262d24768c328728873445ba0bdc49589c93",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-06-28T04:18:51Z",
       "updated_at": "2026-06-28T04:18:51Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.7.2/CodeGPT-1.7.2-windows-amd64.exe.xz"
