@@ -4,7 +4,7 @@
 
 A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
 
-[![x-cmd/install — CodeGPT Code Quality Monitoring Repo Card](https://repo.x-cmd.io/CodeGPT.svg)](https://x-cmd.com/install/CodeGPT)
+[![x-cmd/install — CodeGPT Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/CodeGPT.svg)](https://x-cmd.com/install/CodeGPT)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **5,993** lines of code across **61** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 1 | 0 | 0 | 3 |
-| last60d | 2026-07-24 | 0 | 2 | 1 | 0 | 0 | 3 |
-| 90d | 2026-06-24 | 1 | 2 | 2 | 0 | 0 | 4 |
-| last180d | 2026-03-26 | 1 | 3 | 3 | 0 | 0 | 15 |
-| 360d | 2025-09-27 | 8 | 13 | 3 | 1 | 1 | 79 |
-| last720d | 2024-10-02 | 21 | 46 | 3 | 16 | 3 | 228 |
+| 30d | 2026-08-24 | 0 | 1 | 1 | 0 | 0 | 3 |
+| last60d | 2026-07-25 | 0 | 2 | 1 | 0 | 0 | 3 |
+| 90d | 2026-06-25 | 1 | 2 | 2 | 0 | 0 | 4 |
+| last180d | 2026-03-27 | 1 | 3 | 3 | 0 | 0 | 15 |
+| 360d | 2025-09-28 | 8 | 13 | 3 | 1 | 1 | 79 |
+| last720d | 2024-10-03 | 20 | 46 | 3 | 16 | 3 | 225 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for CodeGPT lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:59:40Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:00:26Z._
