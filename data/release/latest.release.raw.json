@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1703,
       "digest": "sha256:d58cfc06e5b4cc5a7b0cd563055929c96be4c4d8b007ea9adc849400c2985c81",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-28T09:00:34Z",
       "updated_at": "2026-09-28T09:00:34Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.8.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 21572320,
       "digest": "sha256:79c1546d88f0ee8dfa66cdeabf02c3a4ea65a30cc62f8f31d6e7941051d07bb6",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-28T09:00:32Z",
       "updated_at": "2026-09-28T09:00:33Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.8.0/CodeGPT-1.8.0-darwin-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 20216930,
       "digest": "sha256:719e32de10830e808840b8151295ade401d30f099a55eedaf2fee2d84b07a2cb",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T09:00:34Z",
       "updated_at": "2026-09-28T09:00:35Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.8.0/CodeGPT-1.8.0-darwin-arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5764408,
       "digest": "sha256:a4311f926954e5bb954ca6e7f4e600042875bdd776944972284bb126c9ac5923",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-09-28T09:00:34Z",
       "updated_at": "2026-09-28T09:00:34Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.8.0/CodeGPT-1.8.0-linux-amd64.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 19988642,
       "digest": "sha256:42119e7d3c8e0d3285325fd0d7ca26d90a7f6418928d2dfe4517c52e594f1187",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-28T09:00:31Z",
       "updated_at": "2026-09-28T09:00:32Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.8.0/CodeGPT-1.8.0-linux-arm-5"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5020600,
       "digest": "sha256:c49ea88ac87a5550ce3a42ac15f5969e1b2dbd3bbf3b0cd4eefb35ebd498f41c",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-28T09:00:34Z",
       "updated_at": "2026-09-28T09:00:35Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.8.0/CodeGPT-1.8.0-linux-arm-5.xz"
