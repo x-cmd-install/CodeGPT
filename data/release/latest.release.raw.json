@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5757316,
       "digest": "sha256:a24b1de8718ac79e6ef9e76a5a3e20803145c977f8b6306f28b6dfb78e79cc8c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-28T09:00:35Z",
       "updated_at": "2026-09-28T09:00:36Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.8.0/CodeGPT-1.8.0-darwin-amd64.xz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 20861100,
       "digest": "sha256:6e54581b51c29c6027ba9c4d7a66436b3c94afcc9dcac9674e2c9658a0b46ae1",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-28T09:00:31Z",
       "updated_at": "2026-09-28T09:00:32Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.8.0/CodeGPT-1.8.0-freebsd-amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5764408,
       "digest": "sha256:a4311f926954e5bb954ca6e7f4e600042875bdd776944972284bb126c9ac5923",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-09-28T09:00:34Z",
       "updated_at": "2026-09-28T09:00:34Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.8.0/CodeGPT-1.8.0-linux-amd64.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5007936,
       "digest": "sha256:25e3da553e6e96ab5602cb22d18069bdd4c1945da244e23ab99e6dce9c9851f1",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-28T09:00:35Z",
       "updated_at": "2026-09-28T09:00:35Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.8.0/CodeGPT-1.8.0-linux-arm-6.xz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5815748,
       "digest": "sha256:8bc1d4559f6fdd5d660c4e6c325fe50a3f5475aaa3508b33087b0c5831823468",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-28T09:00:36Z",
       "updated_at": "2026-09-28T09:00:36Z",
       "browser_download_url": "https://github.com/appleboy/CodeGPT/releases/download/v1.8.0/CodeGPT-1.8.0-windows-amd64.exe.xz"
