@@ -47,12 +47,12 @@ Total: **7,538** lines of code across **69** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 5 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-20 | 1 | 7 | 0 | 0 | 0 | 11 |
-| 90d | 2026-07-21 | 1 | 8 | 0 | 0 | 0 | 11 |
-| last180d | 2026-04-22 | 2 | 10 | 0 | 0 | 0 | 18 |
-| 360d | 2025-10-24 | 9 | 20 | 0 | 1 | 1 | 87 |
-| last720d | 2024-10-29 | 21 | 53 | 0 | 16 | 3 | 232 |
+| 30d | 2026-09-20 | 1 | 5 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-21 | 1 | 7 | 0 | 0 | 0 | 11 |
+| 90d | 2026-07-22 | 1 | 8 | 0 | 0 | 0 | 11 |
+| last180d | 2026-04-23 | 2 | 9 | 0 | 0 | 0 | 18 |
+| 360d | 2025-10-25 | 9 | 20 | 0 | 1 | 1 | 87 |
+| last720d | 2024-10-30 | 21 | 53 | 0 | 16 | 3 | 232 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for CodeGPT lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:22:44Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:38:32Z._
