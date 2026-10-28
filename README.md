@@ -37,22 +37,22 @@ Total: **7,538** lines of code across **69** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,504 · **Forks**: 133 · **Open issues**: 93 · **Contributors**: 31
+- **Stars**: 1,504 · **Forks**: 133 · **Open issues**: 94 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 135 · **Open PRs**: 0 · **Closed issues**: 84 · **Open issues**: 9 · **Commits**: 549
+- **Releases**: 73 · **Merged PRs**: 135 · **Open PRs**: 0 · **Closed issues**: 84 · **Open issues**: 10 · **Commits**: 549
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 5 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-28 | 1 | 7 | 0 | 0 | 0 | 8 |
-| 90d | 2026-07-29 | 1 | 8 | 0 | 0 | 0 | 11 |
-| last180d | 2026-04-30 | 2 | 9 | 0 | 0 | 0 | 18 |
-| 360d | 2025-11-01 | 9 | 20 | 0 | 1 | 1 | 87 |
-| last720d | 2024-11-06 | 21 | 53 | 0 | 16 | 3 | 232 |
+| 30d | 2026-09-28 | 1 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-29 | 1 | 6 | 0 | 0 | 1 | 8 |
+| 90d | 2026-07-30 | 1 | 8 | 0 | 0 | 1 | 11 |
+| last180d | 2026-05-01 | 2 | 9 | 0 | 0 | 1 | 18 |
+| 360d | 2025-11-02 | 9 | 20 | 0 | 1 | 2 | 87 |
+| last720d | 2024-11-07 | 21 | 53 | 0 | 16 | 4 | 232 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for CodeGPT lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:59:39Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:37:38Z._
